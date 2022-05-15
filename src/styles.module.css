@@ -7,3 +7,8 @@
   font-size: 2em;
   text-align: center;
 }
+
+.primary {
+  background-color: blue;
+  color: #000;
+}
